@@ -1,0 +1,7 @@
+{
+  "name": "CyberScan: Face Organizer",
+  "description": "A futuristic PWA that uses Gemini AI to detect and organize faces within your local folders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
